@@ -1,4 +1,4 @@
-package demos
+package demos.android.viewpager.demo
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

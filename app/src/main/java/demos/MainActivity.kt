@@ -1,4 +1,4 @@
-package demos
+package demos.android.viewpager.demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
